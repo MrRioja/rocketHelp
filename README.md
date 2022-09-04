@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="#sobre">Sobre</a> •
-  <a href="#nextauth">nextAuth</a> •
+  <a href="#rocketHelp">Rocket Help</a> •
   <a href="#instalação">Instalação</a> •
   <a href="#tecnologias">Tecnologias</a> •
   <a href="#autor">Autor</a>  
@@ -41,7 +41,7 @@
 
 <br><br><br>
 
-## WatchMe
+## Rocket Help
 
 <br><br><br>
 
@@ -55,10 +55,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:MrRioja/nextauth.git
+$ git clone git@github.com:MrRioja/rocketHelp.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nextauth
+$ cd rocketHelp
 
 # Vá para a pasta server
 $ cd backend
@@ -80,10 +80,10 @@ $ yarn dev
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:MrRioja/nextauth.git
+$ git clone git@github.com:MrRioja/rocketHelp.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nextauth
+$ cd rocketHelp
 
 # Vá para a pasta server
 $ cd frontend
@@ -105,13 +105,13 @@ $ yarn start
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:MrRioja/nextauth.git
+$ git clone git@github.com:MrRioja/rocketHelp.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nextauth
+$ cd rocketHelp
 
 # Vá para a pasta server
-$ cd nextauth
+$ cd rocketHelp
 
 # Instale as dependências
 $ npm install
