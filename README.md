@@ -92,6 +92,8 @@ $ expo start
 
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />
 
+<img align="left" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-standard.png?hl=pt-br" alt="Firebase" height="75" />
+
 <img align="left" src="https://www.svgrepo.com/show/353722/expo.svg" alt="Expo" height="100" />
 
 <br><br><br><br>
